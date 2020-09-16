@@ -1,0 +1,6 @@
+/Users/katerina/Desktop/DUT/C#/lab_1/lab_1/bin/Debug/lab_1.exe
+/Users/katerina/Desktop/DUT/C#/lab_1/lab_1/bin/Debug/lab_1.pdb
+/Users/katerina/Desktop/DUT/C#/lab_1/lab_1/obj/Debug/lab_1.csprojAssemblyReference.cache
+/Users/katerina/Desktop/DUT/C#/lab_1/lab_1/obj/Debug/lab_1.csproj.CoreCompileInputs.cache
+/Users/katerina/Desktop/DUT/C#/lab_1/lab_1/obj/Debug/lab_1.exe
+/Users/katerina/Desktop/DUT/C#/lab_1/lab_1/obj/Debug/lab_1.pdb

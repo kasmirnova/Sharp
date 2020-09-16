@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{A95E2778-02E7-4E99-A352-CE3F232A36FC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab_2/Program.cs">
+    <Files>
+      <File FileName="lab_2/Program.cs" Line="11" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Math.Pow(num, 2) - 3</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.lab__2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
