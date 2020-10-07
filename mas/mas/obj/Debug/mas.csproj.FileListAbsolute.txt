@@ -1,0 +1,6 @@
+/Users/katerina/Projects/mas/mas/bin/Debug/mas.exe
+/Users/katerina/Projects/mas/mas/bin/Debug/mas.pdb
+/Users/katerina/Projects/mas/mas/obj/Debug/mas.csprojAssemblyReference.cache
+/Users/katerina/Projects/mas/mas/obj/Debug/mas.csproj.CoreCompileInputs.cache
+/Users/katerina/Projects/mas/mas/obj/Debug/mas.exe
+/Users/katerina/Projects/mas/mas/obj/Debug/mas.pdb
