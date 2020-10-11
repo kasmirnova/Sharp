@@ -1,0 +1,6 @@
+/Users/katerina/Projects/matrix/matrix/bin/Debug/matrix.exe
+/Users/katerina/Projects/matrix/matrix/bin/Debug/matrix.pdb
+/Users/katerina/Projects/matrix/matrix/obj/Debug/matrix.csprojAssemblyReference.cache
+/Users/katerina/Projects/matrix/matrix/obj/Debug/matrix.csproj.CoreCompileInputs.cache
+/Users/katerina/Projects/matrix/matrix/obj/Debug/matrix.exe
+/Users/katerina/Projects/matrix/matrix/obj/Debug/matrix.pdb

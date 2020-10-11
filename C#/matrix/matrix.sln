@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrix", "matrix\matrix.csproj", "{659CE477-8246-4C12-96DD-79A114652D4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659CE477-8246-4C12-96DD-79A114652D4B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{659CE477-8246-4C12-96DD-79A114652D4B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{659CE477-8246-4C12-96DD-79A114652D4B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{659CE477-8246-4C12-96DD-79A114652D4B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
