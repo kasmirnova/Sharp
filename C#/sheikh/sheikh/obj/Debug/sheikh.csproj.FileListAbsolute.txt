@@ -1,0 +1,6 @@
+/Users/katerina/Desktop/DUT/C#/sheikh/sheikh/bin/Debug/sheikh.exe
+/Users/katerina/Desktop/DUT/C#/sheikh/sheikh/bin/Debug/sheikh.pdb
+/Users/katerina/Desktop/DUT/C#/sheikh/sheikh/obj/Debug/sheikh.csprojAssemblyReference.cache
+/Users/katerina/Desktop/DUT/C#/sheikh/sheikh/obj/Debug/sheikh.csproj.CoreCompileInputs.cache
+/Users/katerina/Desktop/DUT/C#/sheikh/sheikh/obj/Debug/sheikh.exe
+/Users/katerina/Desktop/DUT/C#/sheikh/sheikh/obj/Debug/sheikh.pdb
