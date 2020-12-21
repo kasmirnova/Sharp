@@ -22,7 +22,7 @@ variant - 11
 # lb_11
 variant - 3
 first part name - lb_11
-second part name - lb_11.2
+second part name - lb11.2
 # sr
 variant - 6 
 # new_lb_6
