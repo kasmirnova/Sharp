@@ -1,0 +1,6 @@
+/Users/katerina/Desktop/DUT/C#/sr/sr/bin/Debug/sr.exe
+/Users/katerina/Desktop/DUT/C#/sr/sr/bin/Debug/sr.pdb
+/Users/katerina/Desktop/DUT/C#/sr/sr/obj/Debug/sr.csprojAssemblyReference.cache
+/Users/katerina/Desktop/DUT/C#/sr/sr/obj/Debug/sr.csproj.CoreCompileInputs.cache
+/Users/katerina/Desktop/DUT/C#/sr/sr/obj/Debug/sr.exe
+/Users/katerina/Desktop/DUT/C#/sr/sr/obj/Debug/sr.pdb
