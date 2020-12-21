@@ -1,0 +1,6 @@
+/Users/katerina/Desktop/DUT/C#/lb11.2/lb_11.2/lb_11.2/bin/Debug/lb_11.2.exe
+/Users/katerina/Desktop/DUT/C#/lb11.2/lb_11.2/lb_11.2/bin/Debug/lb_11.2.pdb
+/Users/katerina/Desktop/DUT/C#/lb11.2/lb_11.2/lb_11.2/obj/Debug/lb_11.2.csprojAssemblyReference.cache
+/Users/katerina/Desktop/DUT/C#/lb11.2/lb_11.2/lb_11.2/obj/Debug/lb_11.2.csproj.CoreCompileInputs.cache
+/Users/katerina/Desktop/DUT/C#/lb11.2/lb_11.2/lb_11.2/obj/Debug/lb_11.2.exe
+/Users/katerina/Desktop/DUT/C#/lb11.2/lb_11.2/lb_11.2/obj/Debug/lb_11.2.pdb
