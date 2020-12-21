@@ -1,0 +1,6 @@
+/Users/katerina/Desktop/DUT/C#/lb_9/lb_9/bin/Debug/lb_9.exe
+/Users/katerina/Desktop/DUT/C#/lb_9/lb_9/bin/Debug/lb_9.pdb
+/Users/katerina/Desktop/DUT/C#/lb_9/lb_9/obj/Debug/lb_9.csprojAssemblyReference.cache
+/Users/katerina/Desktop/DUT/C#/lb_9/lb_9/obj/Debug/lb_9.csproj.CoreCompileInputs.cache
+/Users/katerina/Desktop/DUT/C#/lb_9/lb_9/obj/Debug/lb_9.exe
+/Users/katerina/Desktop/DUT/C#/lb_9/lb_9/obj/Debug/lb_9.pdb
