@@ -28,3 +28,7 @@ variant - 6
 # new_lb_6
 Redone 
 name - new_lb_6
+
+Assignments for 2021
+
+1. Calculator on Windows forms
