@@ -33,3 +33,5 @@ name - new_lb_6
 
 1. Calculator on Windows forms
 name - calculator
+2. name - LB2
+3. name - LB3
