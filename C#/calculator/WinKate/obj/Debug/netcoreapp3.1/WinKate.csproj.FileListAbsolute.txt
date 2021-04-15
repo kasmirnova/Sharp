@@ -1,0 +1,15 @@
+D:\2KateC#\WinKate\WinKate\bin\Debug\netcoreapp3.1\WinKate.exe
+D:\2KateC#\WinKate\WinKate\bin\Debug\netcoreapp3.1\WinKate.deps.json
+D:\2KateC#\WinKate\WinKate\bin\Debug\netcoreapp3.1\WinKate.runtimeconfig.json
+D:\2KateC#\WinKate\WinKate\bin\Debug\netcoreapp3.1\WinKate.runtimeconfig.dev.json
+D:\2KateC#\WinKate\WinKate\bin\Debug\netcoreapp3.1\WinKate.dll
+D:\2KateC#\WinKate\WinKate\bin\Debug\netcoreapp3.1\WinKate.pdb
+D:\2KateC#\WinKate\WinKate\obj\Debug\netcoreapp3.1\WinKate.csprojAssemblyReference.cache
+D:\2KateC#\WinKate\WinKate\obj\Debug\netcoreapp3.1\WinKate.Form1.resources
+D:\2KateC#\WinKate\WinKate\obj\Debug\netcoreapp3.1\WinKate.csproj.GenerateResource.cache
+D:\2KateC#\WinKate\WinKate\obj\Debug\netcoreapp3.1\WinKate.AssemblyInfoInputs.cache
+D:\2KateC#\WinKate\WinKate\obj\Debug\netcoreapp3.1\WinKate.AssemblyInfo.cs
+D:\2KateC#\WinKate\WinKate\obj\Debug\netcoreapp3.1\WinKate.csproj.CoreCompileInputs.cache
+D:\2KateC#\WinKate\WinKate\obj\Debug\netcoreapp3.1\WinKate.dll
+D:\2KateC#\WinKate\WinKate\obj\Debug\netcoreapp3.1\WinKate.pdb
+D:\2KateC#\WinKate\WinKate\obj\Debug\netcoreapp3.1\WinKate.genruntimeconfig.cache
