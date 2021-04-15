@@ -1,0 +1,15 @@
+D:\2KateC#\lb2\lb2\bin\Debug\netcoreapp3.1\lb2.exe
+D:\2KateC#\lb2\lb2\bin\Debug\netcoreapp3.1\lb2.deps.json
+D:\2KateC#\lb2\lb2\bin\Debug\netcoreapp3.1\lb2.runtimeconfig.json
+D:\2KateC#\lb2\lb2\bin\Debug\netcoreapp3.1\lb2.runtimeconfig.dev.json
+D:\2KateC#\lb2\lb2\bin\Debug\netcoreapp3.1\lb2.dll
+D:\2KateC#\lb2\lb2\bin\Debug\netcoreapp3.1\lb2.pdb
+D:\2KateC#\lb2\lb2\obj\Debug\netcoreapp3.1\lb2.csprojAssemblyReference.cache
+D:\2KateC#\lb2\lb2\obj\Debug\netcoreapp3.1\lb2.Form1.resources
+D:\2KateC#\lb2\lb2\obj\Debug\netcoreapp3.1\lb2.csproj.GenerateResource.cache
+D:\2KateC#\lb2\lb2\obj\Debug\netcoreapp3.1\lb2.AssemblyInfoInputs.cache
+D:\2KateC#\lb2\lb2\obj\Debug\netcoreapp3.1\lb2.AssemblyInfo.cs
+D:\2KateC#\lb2\lb2\obj\Debug\netcoreapp3.1\lb2.csproj.CoreCompileInputs.cache
+D:\2KateC#\lb2\lb2\obj\Debug\netcoreapp3.1\lb2.dll
+D:\2KateC#\lb2\lb2\obj\Debug\netcoreapp3.1\lb2.pdb
+D:\2KateC#\lb2\lb2\obj\Debug\netcoreapp3.1\lb2.genruntimeconfig.cache
