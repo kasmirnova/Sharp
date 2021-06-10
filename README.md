@@ -38,6 +38,6 @@ name - calculator
 4. name - publish
 5. name -\
 6. name - 
-7. name - 
+7. name - LAB_7 (without properties)
 8. name - 
 9. name - sr
