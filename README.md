@@ -40,4 +40,4 @@ name - calculator
 6. name -
 7. name - LAB_7 (without properties)
 8. name - 
-9. name - sr
+9. name - sr_2_sem
