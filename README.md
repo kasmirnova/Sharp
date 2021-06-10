@@ -36,7 +36,7 @@ name - calculator
 2. name - LB2
 3. name - LB3
 4. name - publish
-5. name -\
+5. name - LAB_5
 6. name - 
 7. name - LAB_7 (without properties)
 8. name - 
