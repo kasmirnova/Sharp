@@ -37,7 +37,7 @@ name - calculator
 3. name - LB3
 4. name - publish
 5. name - Lab12WPF
-6. name -
+6. name - lb6
 7. name - LAB_7 (without properties)
 8. name - WinFormsApp1
 9. name - sr_2_sem
