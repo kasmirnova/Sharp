@@ -40,4 +40,4 @@ name - calculator
 6. name - lb6
 7. name - LAB_7 (without properties)
 8. name - WinFormsApp1
-9. name - sr_2_sem
+9. name - SimpleChat
